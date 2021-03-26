@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "esbuild": "^0.10.1",
+    "sass": "^1.32.8"
+  }
+}
